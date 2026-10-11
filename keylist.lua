@@ -3,7 +3,7 @@
 -- max_devices = 20 (matlab 20 phones mein chalegi)
 
 return {
-    ["QUARTER"] = {
+    ["SABIR_PREMIUM"] = {
         type = "VIP",
         expiry = "2027-12-31",
         valid = true,
